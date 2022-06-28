@@ -6,7 +6,8 @@ namespace ReizTechHomework
     {
         static void Main(string[] args)
         {
-            ClockTask.MainProgram.Run();
+            // ClockTask.MainProgram.Run();
+             BranchTask.MainProgram.Run();
         }
     }
 }
